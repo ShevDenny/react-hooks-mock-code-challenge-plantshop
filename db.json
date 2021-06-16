@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Philodendron Brasil ",
+      "image": "https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_philodendron-brasil_alt_stone.jpg?ver=279278",
+      "price": "20",
+      "id": 8
     }
   ]
 }
